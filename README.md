@@ -1,2 +1,2 @@
 # ethereum
-My Ethereum Porjects
+My Ethereum Projects
